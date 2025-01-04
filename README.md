@@ -53,7 +53,7 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 
 <a id="othergeneraltraining" />
 
-# Companion Material and Resources for Class delivery by Ricardo Cabral
+# Companion Material and Resources for Class delivery by Pavan Mani Deep
 
 **Artificial intelligence (AI)**
 - [AI-050: Develop Generative AI Solutions with Azure OpenAI Service](https://ai-050.rramoscabral.com/)
