@@ -4,7 +4,7 @@
 
 # Training for Microsoft Official Course (MOC) PL-400: Microsoft Power Platform Developer
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) PL-400: Microsoft Power Platform Developer.
+Companion Material and Resources for Class Delivery by [**Pavan Mani Deep Yaragani**](https://www.ecellorscrm.com) for Microsoft Official Course (MOC) PL-400: Microsoft Power Platform Developer.
 
 The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes.
 
